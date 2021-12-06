@@ -1,14 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF6714&width=450&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Brenndha!;Seja+muito+bem-vindo(a)+por+aqui.)](https://git.io/typing-svg)
 <p>
-  Estou em transição de carreira e atualmente estudo Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a>  em parceria com a <a href="https://www.xpinc.com/">XP Inc.</a> 🚀
+  Prazer! 🌿
+  <br> Sou carioca, moro em Mauá/SP e atualmente estou em transição de carreira, estudando Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a>  em parceria com a <a href="https://www.xpinc.com/">XP Inc.</a> 🚀
 </p>
 
-<h3><strong>Meus interesses pessoais</strong></h3>
+<div align="center">
+  <img height="150px" align="right" src="https://github.com/brenndha-cabral/brenndha-cabral/blob/main/assets/gifs/readme-principal.gif?raw=true" />
+  <div align="left" style="display: inline_block">
+    <h3><strong>Meus interesses pessoais</strong></h3>
     <li>🌱 Aprendendo a aprender</li>
     <li>🔭 Estudando Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a>  - Turma XP</li>
-    <li>🤔 Meus hobbies são acampar, filmes, séries e joguinho de tabuleiro</li>
+    <li>🧘 Meus hobbies são acampar, assistir filmes e joguinhos de tabuleiro</li>
     <li>💬 Vamos trocar uma ideia? Me chame para bater um papo</li>
-    <li>⚡ Fato aleatório: Adoro um chochê 🧶</li>
+    <li>🎈 Fato aleatório: Adoro um chochê 🧶</li>
   </div>
 </div>
 
