@@ -46,7 +46,6 @@
 <hr>
 <h4 align="center">✨ Estatísticas ✨</h4>
 <hr>
-<br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/brenndha-cabral" title="brenndha-cabral profile">
@@ -61,8 +60,6 @@
     <a href="https://github.com/brenndha-cabral" title="brenndha-cabralprofile">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenndha-cabral&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=fabd2f&text_color=ffffff&icon_color=fabd2f&bg_color=282828&langs_count=8&layout=compact&border_color=fabd2f&hide_border=true" />
     </a>
-  <br>
-  <br>
   </div>
 </p>
 <hr>
