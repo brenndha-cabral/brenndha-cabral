@@ -17,7 +17,7 @@
 </div>
 
 <hr>
-<h4 align="center">✨ Línguagens & Frameworks & Ferramentas ✨</h4>
+<h4 align="center">✨ Linguagens & Frameworks & Ferramentas ✨</h4>
 <hr>
 <div align="center" style="margin-top: 30px" style="display: inline_block">
   <img title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
