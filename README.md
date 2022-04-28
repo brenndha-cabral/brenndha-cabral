@@ -12,7 +12,7 @@
     <li>🔭 Estudando Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a>  - Turma XP</li>
     <li>🧘 Meus hobbies são acampar, assistir filmes e joguinhos de tabuleiro</li>
     <li>💬 Vamos trocar uma ideia? Me chame para bater um papo</li>
-    <li>🎈 Fato aleatório: Adoro um chochê 🧶</li>
+    <li>🎈 Fato aleatório: Adoro um crochê 🧶</li>
   </div>
 </div>
 
