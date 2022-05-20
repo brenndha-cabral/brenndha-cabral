@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img height="150px" align="right" src="https://github.com/brenndha-cabral/brenndha-cabral/blob/main/assets/gifs/readme-principal.gif?raw=true" />
+  <img height="170" align="right" src="https://user-images.githubusercontent.com/87787342/169583423-7c0376fd-6545-463f-8884-002e325c8a56.png" />
   <div align="left" style="display: inline_block">
     <h3><strong>Meus interesses pessoais</strong></h3>
     <li>🌱 Aprendendo a aprender</li>
