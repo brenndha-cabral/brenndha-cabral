@@ -80,7 +80,6 @@
   <a href="https://www.linkedin.com/in/brenndhacabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href=mailto:brenndha.cabral@yahoo.com target="_blank"><img src="https://img.shields.io/badge/-Yahoo-561af8?style=for-the-badge&logo=yahoo&logoColor=white"></a>
 </div>
-
 <br />
 <div align="center">
   <p>
