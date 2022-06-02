@@ -9,7 +9,8 @@
   <div align="left" style="display: inline_block">
     <h3><strong>Meus interesses pessoais</strong></h3>
     <li>🌱 Aprendendo a aprender</li>
-    <li>🔭 Estudando Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a>  - Turma XP</li>
+    <li>🔭 Estudando Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li>
+    <li>🔭 Estudando Desenvolvimento Mobile e Kotlin na <a href="https://www.dio.me/">Digital Innovation One</a></li>
     <li>🧘 Meus hobbies são acampar, assistir filmes e joguinhos de tabuleiro</li>
     <li>💬 Vamos trocar uma ideia? Me chame para bater um papo</li>
     <li>🎈 Fato aleatório: Adoro um crochê 🧶</li>
