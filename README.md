@@ -40,11 +40,11 @@
 <h4 align="center">✨ Destaques ✨</h4>
 <hr>
 <div align="center">
-  <a href="https://github.com/brenndha-cabral/brenndha-cabral.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brenndha-cabral&repo=brenndha-cabral.github.io&theme=gruvbox" />
+  <a href="https://github.com/brenndha-cabral/bankline-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brenndha-cabral&repo=bankline-api&theme=gruvbox" />
  </a>
- <a href="https://github.com/brenndha-cabral/trybe-exercicios">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brenndha-cabral&repo=trybe-exercicios&theme=gruvbox" />
+ <a href="https://github.com/brenndha-cabral/bankline-android">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brenndha-cabral&repo=bankline-android&theme=gruvbox" />
  </a>
  </div>
  
