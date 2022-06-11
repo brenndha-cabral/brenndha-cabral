@@ -24,7 +24,7 @@
 <!--   <img title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -->
 <!--   <img title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
   <img title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<!--   <img title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
+  <img title="Kotlin" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img title="Docker" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
    <img title="MySQL" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -34,6 +34,7 @@
   <img title="Linux" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
   <img title="GIT" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/> 
   <img title="VSC" alt="VSC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img title="Android Studio" alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   <img title="Intellij" alt="Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 </div>
 
@@ -64,7 +65,7 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/brenndha-cabral" title="brenndha-cabral profile">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenndha-cabral&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=fabd2f&text_color=ffffff&icon_color=fabd2f&bg_color=282828&langs_count=8&layout=compact&border_color=fabd2f&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenndha-cabral&hide=c%23&langs_count=10,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=fabd2f&text_color=ffffff&icon_color=fabd2f&bg_color=282828&langs_count=8&layout=compact&border_color=fabd2f&hide_border=true" />
     </a>
   </div>
 </p>
@@ -81,12 +82,3 @@
   <a href="https://www.linkedin.com/in/brenndhacabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href=mailto:brenndha.cabral@yahoo.com target="_blank"><img src="https://img.shields.io/badge/-Yahoo-561af8?style=for-the-badge&logo=yahoo&logoColor=white"></a>
 </div>
-<br />
-<div align="center">
-  <p>
-    ⭐️ Perfil baseado em <a href="https://github.com/SrTonn">Wellington Rodrigues</a>
-  </p>
-  <img src="https://komarev.com/ghpvc/?username=brenndha-cabral" alt="profile views" />
-</div>
-
-
