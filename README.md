@@ -42,11 +42,8 @@
 <h4 align="center">✨ Destaques ✨</h4>
 <hr>
 <div align="center">
-  <a href="https://github.com/brenndha-cabral/bankline-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brenndha-cabral&repo=bankline-api&theme=gruvbox" />
- </a>
- <a href="https://github.com/brenndha-cabral/bankline-android">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brenndha-cabral&repo=bankline-android&theme=gruvbox" />
+  <a href="https://github.com/brenndha-cabral/blogs-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brenndha-cabral&repo=blogs-api&theme=gruvbox" />
  </a>
  </div>
  
