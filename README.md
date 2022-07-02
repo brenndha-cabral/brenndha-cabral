@@ -50,6 +50,9 @@
   <a href="https://github.com/brenndha-cabral/blogs-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brenndha-cabral&repo=blogs-api&theme=gruvbox" />
  </a>
+ <a href="https://github.com/brenndha-cabral/pokemons-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brenndha-cabral&repo=pokemons-api&theme=gruvbox" />
+ </a>
  </div>
  
 <hr>
