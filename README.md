@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF6714&width=450&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Brenndha!;Seja+muito+bem-vindo(a)+por+aqui.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF6714&width=450&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Brenndha!;Sinta-se+à+vontade+por+aqui.)](https://git.io/typing-svg)
 <p>
   Prazer! 🌿
   <br> Sou carioca, moro em Mauá/SP e atualmente estou em transição de carreira, estudando Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a>  em parceria com a <a href="https://www.xpinc.com/">XP Inc.</a> 🚀
