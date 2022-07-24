@@ -16,6 +16,14 @@
     <li>🎈 Fato aleatório: Adoro um crochê 🧶</li>
   </div>
 </div>
+<hr>
+
+<h4 align="center">✨ Contato ✨</h4>
+<hr>
+<div align=center>
+  <a href="https://www.linkedin.com/in/brenndhacabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href=mailto:brenndha.cabral@yahoo.com target="_blank"><img src="https://img.shields.io/badge/-Yahoo-561af8?style=for-the-badge&logo=yahoo&logoColor=white"></a>
+</div>
 
 <hr>
 <h4 align="center">✨ Linguagens & Frameworks & Ferramentas ✨</h4>
@@ -77,11 +85,4 @@
   <a href="https://www.codewars.com/users/brenndha-cabral" target="_blank">
     <img src="https://www.codewars.com/users/brenndha-cabral/badges/small">
   </a>
-</div>
-<hr>
-<h4 align="center">✨ Contato ✨</h4>
-<hr>
-<div align=center>
-  <a href="https://www.linkedin.com/in/brenndhacabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href=mailto:brenndha.cabral@yahoo.com target="_blank"><img src="https://img.shields.io/badge/-Yahoo-561af8?style=for-the-badge&logo=yahoo&logoColor=white"></a>
 </div>
