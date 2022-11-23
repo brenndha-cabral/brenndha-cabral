@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF6714&width=450&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Brenndha!;Sinta-se+à+vontade+por+aqui.)](https://git.io/typing-svg)
 <p>
   Prazer! 🌿
-  <br> Sou carioca, moro em Mauá/SP e atualmente estou em transição de carreira, estudando Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a>  em parceria com a <a href="https://www.xpinc.com/">XP Inc.</a> 🚀
+  <br> Sou carioca, moro em São Paulo e atuo como Software Engineer na <a href="https://www.xpinc.com/">XP Inc.</a> 🚀
 </p>
 
 <div align="center">
@@ -31,6 +31,7 @@
   <img title="C#" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img title="Python" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"/>
   <img title=".NET" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img title="xUnit" alt="xUnit" height="30" width="30" src="./public/assets/images/xunit.png">
   <img title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img title="Docker" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img title="MySQL" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
