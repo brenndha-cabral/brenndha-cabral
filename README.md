@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF6714&width=450&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Brenndha!;Sinta-se+à+vontade+por+aqui.)](https://git.io/typing-svg)
 <p>
   Prazer! 🌿
-  <br> Sou carioca, moro em São Paulo e atuo como Software Engineer na <a href="https://www.xpinc.com/">XP Inc.</a> 🚀
+  <br> Sou carioca, moro em São Paulo e sou Software Engineer atuando como Back-end Developer.</a> 🚀
 </p>
 
 <div align="center">
@@ -20,7 +20,7 @@
 <hr>
 <div align=center>
   <a href="https://www.linkedin.com/in/brenndhacabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href=mailto:brenndha.cabral@yahoo.com target="_blank"><img src="https://img.shields.io/badge/-Yahoo-561af8?style=for-the-badge&logo=yahoo&logoColor=white"></a>
+  <a href=mailto:cabralbrenndha@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <hr>
@@ -69,11 +69,11 @@
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
-  <div align=center>
+<!--   <div align=center>
     <a href="https://github.com/brenndha-cabral" title="brenndha-cabral profile">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenndha-cabral&hide=c%23&langs_count=10,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=fabd2f&text_color=ffffff&icon_color=fabd2f&bg_color=282828&langs_count=8&layout=compact&border_color=fabd2f&hide_border=true" />
     </a>
-  </div>
+  </div> -->
 </p>
 <hr>
 <div align="center">
