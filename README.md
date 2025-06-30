@@ -12,7 +12,7 @@
     <td valign="top" width="50%">
       <h3><strong>👩‍💻 Interesses profissionais</strong></h3>
       <ul>
-        <li>🔧 Desenvolvimento de APIs escaláveis e performáticas</li>
+        <li>🔧 Desenvolvimento de aplicações escaláveis e performáticas</li>
         <li>📐 Arquitetura limpa e boas práticas de código</li>
         <li>🧠 Resolução de problemas com foco em impacto real</li>
         <li>🤝 Trabalho em equipe, autonomia e aprendizado contínuo</li>
@@ -24,7 +24,7 @@
         <li>🌱 Sempre aprendendo, especialmente inglês!</li>
         <li>🧘 Acampar, maratonar filmes e joguinhos de tabuleiro</li>
         <li>💬 Adoro boas conversas, técnicas e bate-papos furados</li>
-        <li>🎈 Fato aleatório: É quase um debug da mente! 🧶</li>
+        <li>🎈 Fato aleatório: Crochetar me ajuda a relaxar e organizar ideias, é quase um debug da mente! 🧶</li>
       </ul>
     </td>
   </tr>
