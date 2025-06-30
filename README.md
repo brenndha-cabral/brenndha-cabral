@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF6714&width=450&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Brenndha!;Sinta-se+à+vontade+por+aqui.)](https://git.io/typing-svg)
-<p>
+<p style="text-align: justify;">
   Sou carioca, moro em São Paulo e sou <strong>Software Engineer</strong> com foco em <strong>desenvolvimento Back-end</strong>. 🚀<br><br>
   Após anos no setor fiscal-contábil, me apaixonei por tecnologia e fiz a transição de carreira. Desde então, venho atuando com <strong>C#, .NET, JavaScript, TypeScript</strong> e tecnologias como <strong>Docker, PostgreSQL, Azure</strong> e <strong>APIs REST</strong>. Já fui desenvolvedora na XP Inc., participo ativamente de formações como Trybe, Generation Brasil e DIO, e sigo aprendendo todos os dias, atualmente estudando inglês e contribuindo com projetos pessoais.<br><br>
   <div align="center">
