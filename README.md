@@ -2,7 +2,9 @@
 <p>
   Sou carioca, moro em São Paulo e sou <strong>Software Engineer</strong> com foco em <strong>desenvolvimento Back-end</strong>. 🚀<br><br>
   Após anos no setor fiscal-contábil, me apaixonei por tecnologia e fiz a transição de carreira. Desde então, venho atuando com <strong>C#, .NET, JavaScript, TypeScript</strong> e tecnologias como <strong>Docker, PostgreSQL, Azure</strong> e <strong>APIs REST</strong>. Já fui desenvolvedora na XP Inc., participo ativamente de formações como Trybe, Generation Brasil e DIO, e sigo aprendendo todos os dias, atualmente estudando inglês e contribuindo com projetos pessoais.<br><br>
+  <div align="center">
   <em>Transformar requisitos em soluções escalávels, converter ideias em código e criar soluções que geram impacto real.</em> 🚀
+  </div>
 </p>
 <hr>
 <table>
