@@ -7,6 +7,12 @@
   </div>
 </p>
 <hr>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brenndha-cabral/brenndha-cabral/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brenndha-cabral/brenndha-cabral/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/brenndha-cabral/brenndha-cabral/output/pacman-contribution-graph.svg">
+</picture>
+<hr>
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -30,19 +36,16 @@
   </tr>
 </table>
 
-
-
-<h4 align="center">✨ Contato ✨</h4>
 <hr>
 <div align=center>
-  <a href="https://www.linkedin.com/in/brenndhacabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<h4 align="center">✨ Contato ✨</h4>
+  <a href="https://www.linkedin.com/in/brenndhacabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="100" alt="linkedin logo"></a> 
   <a href=mailto:cabralbrenndha@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <hr>
-<h4 align="center">✨ Linguagens & Frameworks & Ferramentas ✨</h4>
-<hr>
 <div align="center" style="margin-top: 30px" style="display: inline_block">
+<h4 align="center">✨ Linguagens & Frameworks & Ferramentas ✨</h4>
   <img title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img title="C#" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img title="Python" alt="Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"/>
